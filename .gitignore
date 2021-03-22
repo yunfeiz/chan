@@ -4,7 +4,10 @@ __pycache__/
 *$py.class
 
 .idea/
-
+*.xlsx
+*.html
+*.png
+*/.ipynb_checkpoints/
 # C extensions
 *.so
 

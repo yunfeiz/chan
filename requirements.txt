@@ -1,4 +1,6 @@
-pyecharts
+requests>=2.24.0
+pyecharts>=1.9.0
 tqdm
-pandas
-tushare
+pandas>=1.1.0
+zb>=0.0.14
+numpy>=1.16.5
